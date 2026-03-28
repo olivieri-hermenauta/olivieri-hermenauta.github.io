@@ -10,4 +10,4 @@ title: Hermen@uta
 
 Essays on artificial intelligence, language, and interpretation.
 
-_Work in progress._
+
