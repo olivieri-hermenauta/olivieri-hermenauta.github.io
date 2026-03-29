@@ -9,4 +9,9 @@ title: Hermen@uta
 
 Essays on artificial intelligence, language, and interpretation.
 
+## Manifesto
+
+- [Manifesto (Português)](manifesto)
+- [Manifesto (English)](manifesto-en)
+
 
