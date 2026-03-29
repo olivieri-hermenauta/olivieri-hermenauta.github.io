@@ -12,7 +12,7 @@ Recebi.
 E, ainda assim, tive a impressão de que havia algo no tom — uma secura excessiva, talvez um leve incômodo, como se a máquina tivesse ficado… aborrecida.
 
 Mas não havia ninguém ali para se aborrecer.
-![Seja breve — cartum Hermen@uta](/img/quando-o-tom.png)
+<img src="/img/quando-o-tom.png" alt="Cartum Hermen@uta" width="500">
 ---
 
 A cena é banal. Qualquer usuário de IA já passou por algo semelhante. Mudamos o tipo de instrução, ajustamos o estilo, e de repente sentimos que “algo mudou” do outro lado.
