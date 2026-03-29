@@ -1,3 +1,1 @@
-![Seja breve — cartum Hermen@uta](/img/cartum-breve.png)
-
-*O pedido é simples. A resposta, nem tanto.*
+![Seja breve — cartum Hermen@uta]({{ '/img/cartum-breve.png' | relative_url }})
