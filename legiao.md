@@ -50,4 +50,5 @@ Isso importa. Porque os problemas que Martim identifica — concentração de po
 A inteligência artificial não é uma entidade autônoma que se impõe à humanidade, nem um simples instrumento neutro. É uma tecnologia ambígua, inserida numa longa história de mediações. O desafio não é rejeitá-la nem absolutizá-la — mas compreendê-la com a medida que ela exige. E essa medida, talvez, ainda estejamos aprendendo a ter.
 
 Afinal — ferramenta ou legião? A resposta, talvez, dependa menos da tecnologia do que de quem a usa, e para quê.
+
 *Este texto foi elaborado com o auxílio de ferramentas de inteligência artificial, utilizadas como instrumento de organização e depuração de argumentos.*
