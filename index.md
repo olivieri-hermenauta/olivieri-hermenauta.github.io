@@ -19,3 +19,4 @@ Essays on artificial intelligence, language, and interpretation.
 - [IA sem consciência, linguagem sem sujeito](marcus-llm)
 - [Oráculo de vidro (Português)](hipocondria)
 - [Sobre linguagem, IA e um equívoco recorrente (Português)](legiao)
+- [Quando a ferramenta pede reconhecimento (Português)](caso-logo)
