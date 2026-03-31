@@ -14,3 +14,4 @@ Essays on artificial intelligence, language, and interpretation.
 ## Essays
 
 - [Quando o tom engana](quando-o-tom-engana)
+- [The Eternal Navigation (English)](ulysses-en)
