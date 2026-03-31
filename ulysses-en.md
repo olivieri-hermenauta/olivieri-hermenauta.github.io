@@ -8,7 +8,7 @@ title: "The Eternal Navigation: From Ulysses to Artificial Intelligence"
 
 *What Homer, Dante and Joyce can teach us about navigating the digital age*
 
-![Ulysses](img/ulysses.png)
+<img src="/img/ulysses.png" style="max-width:100%;">
 
 Many people know — without quite realizing it — the maxim attributed to the Roman statesman Pompey, who is said to have used it to persuade fearful sailors to face the sea: Navigare necesse est; vivere non est necesse. In Portuguese — my native tongue — it became famous through Fernando Pessoa: “To navigate is necessary; to live is not necessary.”
 
