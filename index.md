@@ -16,3 +16,4 @@ Essays on artificial intelligence, language, and interpretation.
 - [Quando o tom engana](quando-o-tom-engana)
 - [The Eternal Navigation (English)](ulysses-en)
 - [Navegação Eterna (Português)](ulysses)
+- [IA sem consciência (Português)](marcus-llm)
