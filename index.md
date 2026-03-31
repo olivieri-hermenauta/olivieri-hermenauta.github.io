@@ -17,3 +17,4 @@ Essays on artificial intelligence, language, and interpretation.
 - [The Eternal Navigation (English)](ulysses-en)
 - [Navegação Eterna (Português)](ulysses)
 - [IA sem consciência (Português)](marcus-llm)
+- [Oráculo de vidro (Português)](hipocondria)
