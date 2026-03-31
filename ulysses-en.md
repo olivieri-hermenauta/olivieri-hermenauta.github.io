@@ -1,7 +1,7 @@
 ---
 
 layout: default
-title: The Eternal Navigation: From Ulysses to Artificial Intelligence
+title: "The Eternal Navigation: From Ulysses to Artificial Intelligence"
 ---
 
 # The Eternal Navigation: From Ulysses to Artificial Intelligence
