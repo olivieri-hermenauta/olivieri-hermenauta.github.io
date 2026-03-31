@@ -18,3 +18,4 @@ Essays on artificial intelligence, language, and interpretation.
 - [Navegação Eterna (Português)](ulysses)
 - [IA sem consciência, linguagem sem sujeito](marcus-llm)
 - [Oráculo de vidro (Português)](hipocondria)
+- [Sobre linguagem, IA e um equívoco recorrente (Português)](legiao)
