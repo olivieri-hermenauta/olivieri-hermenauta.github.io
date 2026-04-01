@@ -7,7 +7,7 @@ title: "Mataram a internet?"
 
 *Ou mudamos a forma de pensar dentro dela?*
 
-<img src="/img/react-bobo.png" alt="bobo-millor" style="max-width:100%; margin: 2rem auto; display: block;">
+<img src="/img/react-bobo.png" alt="bobo-millor" style="max-width:60%; margin: 2rem auto; display: block;">
 
 
 Mataram a internet? Eu achava que não. Até começar a prestar atenção no meu próprio dia.
