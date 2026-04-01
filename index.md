@@ -22,4 +22,4 @@ Essays on artificial intelligence, language, and interpretation.
 - [Quando a ferramenta pede reconhecimento (Português)](caso-logo)
 - [Digital Regulation and the Architecture of Freedom (English)](digital-regulation-en)
 - [A IA está escrevendo — mas ainda existe autoria? (Português)](autoria-ia)
-- [Mataram a internet? (Português)](react-bobo)
+- [Mataram a internet? (Português)](bobo-waal-street)
