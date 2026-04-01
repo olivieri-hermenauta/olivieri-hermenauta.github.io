@@ -20,4 +20,4 @@ Essays on artificial intelligence, language, and interpretation.
 - [Oráculo de vidro (Português)](hipocondria)
 - [Sobre linguagem, IA e um equívoco recorrente (Português)](legiao)
 - [Quando a ferramenta pede reconhecimento (Português)](caso-logo)
-- [Digital Regulation and the Architecture of Freedom (English)](digital-regulation)
+- [Digital Regulation and the Architecture of Freedom (English)](digital-regulation-en)
