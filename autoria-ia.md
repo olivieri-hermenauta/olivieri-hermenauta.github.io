@@ -7,7 +7,7 @@ title: "A IA está escrevendo — mas ainda existe autoria?"
 
 *What Luciano Floridi’s philosophy can teach us about the risks of digital overregulation.*
 
-<img src="/img/lei-felca.png" alt="Exigência documentos" style="max-width:100%; margin: 2rem auto; display: block;">Antonio Carlos Olivieri
+<img src="/img/autor-ia.png" alt="O que achou" style="max-width:100%; margin: 2rem auto; display: block;">Antonio Carlos Olivieri
 
 Nos últimos meses, tornou-se banal dizer que a inteligência artificial escreve. Ela redige e-mails, produz ensaios, resume livros, traduz textos e até simula estilos literários. O que antes parecia um experimento técnico começa a assumir a forma de um fenômeno cultural.
 
