@@ -23,3 +23,4 @@ Essays on artificial intelligence, language, and interpretation.
 - [Digital Regulation and the Architecture of Freedom (English)](digital-regulation-en)
 - [A IA está escrevendo — mas ainda existe autoria? (Português)](autoria-ia)
 - [Mataram a internet? (Português)](bobo-waal-street)
+- [Quando o golpe aprende a escrever (Português)](ia-maliciosa)
