@@ -7,7 +7,7 @@ title: "Quando o golpe aprende a escrever"
 
 *Do código binário ao velho 171 — o estelionato entra na era da IA.*
 
-<img src="/img/ia-maliciosa.png" alt="Descrição da imagem" style="max-width:100%; margin: 2rem auto; display: block;">
+<img src="/img/ia-maliciosa.png" alt="Descrição da imagem" style="max-width:60%; margin: 2rem auto; display: block;">
 
 Uma startup de cibersegurança acaba de levantar US$ 80 milhões para desenvolver soluções contra o que chama de “IA maliciosa”. O termo soa novo, quase alarmante, mas descreve algo mais simples — e mais próximo: o uso de inteligência artificial para tornar golpes antigos mais eficientes.
 
