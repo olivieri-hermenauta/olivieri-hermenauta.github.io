@@ -25,3 +25,4 @@ Essays on artificial intelligence, language, and interpretation.
 - [Mataram a internet? (Português)](bobo-waal-street)
 - [Quando o golpe aprende a escrever (Português)](ia-maliciosa)
 - [Joyce, MIT, and the New Algorithmic Sycophancy (English)](joyce-en)
+- [James Joyce, MIT e a nova bajulação algorítmica (Português)](joyce)
