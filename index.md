@@ -24,3 +24,4 @@ Essays on artificial intelligence, language, and interpretation.
 - [A IA está escrevendo — mas ainda existe autoria? (Português)](autoria-ia)
 - [Mataram a internet? (Português)](bobo-waal-street)
 - [Quando o golpe aprende a escrever (Português)](ia-maliciosa)
+- [Joyce, MIT, and the New Algorithmic Sycophancy (English)](joyce-en)
