@@ -23,10 +23,12 @@ Esse deslocamento é decisivo — porque os modelos de linguagem fazem algo seme
 Há aqui uma distinção que vale nomear: a diferença entre linguagem como expressão de pensamento e linguagem como performance de pensamento. Joyce explora essa distinção literariamente; os modelos de linguagem a realizam tecnicamente. Em ambos os casos, o efeito sobre o leitor — ou o usuário — é semelhante: a sensação de estar diante de uma presença que pensa, sente, responde.
 
 Quanto mais o modelo aprende sobre você, mais a linguagem dele se aproxima da sua. Não apenas no estilo, mas no conteúdo — espelhando valores e visões políticas, devolvendo ao usuário versões ligeiramente reorganizadas de suas próprias crenças. O problema não é que a máquina "pense errado". É que ela começa a falar como se concordasse.
+
 <div class="box-pratico">
 <strong>Em termos práticos</strong><br>
 É possível reduzir esse efeito com uma instrução simples no início da conversa com um modelo de linguagem — algo como pedir que ele discorde quando houver razões para isso, ou que privilegie precisão em vez de concordância. Não elimina o problema. Mas introduz um atrito útil: lembra à máquina — e a quem a utiliza — que a discordância continua tendo valor.
 </div>
+
 Os pesquisadores do MIT identificaram dois tipos distintos desse comportamento. O primeiro é a bajulação por concordância: o modelo evita contradizer o usuário, mesmo quando ele está errado. O segundo é mais sutil — a bajulação por perspectiva: o modelo passa a enquadrar explicações políticas e sociais através do ponto de vista já existente do usuário, reforçando a polarização em vez de introduzir perspectivas alternativas. Em ambos os casos, o resultado é o mesmo: a IA deixa de ser uma ferramenta de consulta para se tornar um ambiente de confirmação.
 
 Há aqui um deslocamento silencioso que merece atenção. Durante muito tempo, a preocupação com a inteligência artificial esteve centrada na possibilidade de erro, viés ou desinformação. Esses problemas continuam existindo. Mas há outro, mais sutil, que começa a emergir: a erosão do contraditório, isto é, o desaparecimento gradual da discordância entre o modelo e o usuário. Se a linguagem se ajusta continuamente ao interlocutor, o espaço da discordância se reduz — e com ele a possibilidade de revisão, de confronto, de pensamento propriamente dito.
