@@ -25,6 +25,11 @@ Mas o modelo não mudou.
 
 Quem mudou foi a leitura.
 
+<div class="box-pratico">
+  <h3>Nota prática</h3>
+  <p>Diante de uma resposta excessivamente segura, experimente reformular o prompt. Pequenas mudanças na pergunta podem alterar radicalmente o resultado.</p>
+</div>
+
 ---
 
 Há um velho problema filosófico por trás dessa pequena experiência cotidiana: como atribuímos intenção à linguagem.
