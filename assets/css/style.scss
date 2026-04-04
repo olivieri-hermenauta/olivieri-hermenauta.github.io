@@ -1,6 +1,8 @@
 ---
 ---
 
+@import "{{ site.theme }}";
+
 header {
   display: none;
 }
@@ -9,6 +11,24 @@ header {
   max-width: 800px;
   margin: 0 auto;
 }
+
+.box-pratico {
+  border-left: 4px solid #4CAF50;
+  border-top: 2px solid #333;
+  border-bottom: 2px solid #333;
+  background-color: #111;
+  padding: 1rem;
+  margin: 2rem 0;
+  color: #eaeaea;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.box-pratico h3,
+.box-pratico strong {
+  color: #4CAF50;
+}
+
 .back-home {
   margin-top: 3rem;
   text-align: center;
@@ -22,7 +42,4 @@ header {
 
 .back-home a:hover {
   text-decoration: underline;
-}
-.box-pratico {
-  border: 3px solid red;
 }
