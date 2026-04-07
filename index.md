@@ -26,4 +26,4 @@ Essays on artificial intelligence, language, and interpretation.
 - [Quando o golpe aprende a escrever (Português)](ia-maliciosa)
 - [Joyce, MIT, and the New Algorithmic Sycophancy (English)](joyce-en)
 - [James Joyce, MIT e a nova bajulação algorítmica (Português)](joyce)
-- [Molecules as Sentences: Medicine in the Age of AI (English)](medicina-ia-en)
+- [Molecules as Sentences: Medicine in the Age of AI (English)](medicine-ai-en)
