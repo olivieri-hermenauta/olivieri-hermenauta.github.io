@@ -16,7 +16,7 @@ The compound, named rentosertib, advanced to phase 2a clinical trials. Prelimina
 
 What makes this case especially interesting is not just the speed, but what happened within the process itself.
 
-##What AI is actually doing##
+## What AI is actually doing
 The AI that generated rentosertib does not understand what a disease is. It has no theory of pulmonary fibrosis and does not formulate hypotheses in the classical human sense.
 
 It operates over vast molecular patterns, testing combinations and evaluating probabilities of success across spaces of possibility that no human laboratory could explore in useful time.
@@ -24,7 +24,7 @@ It operates over vast molecular patterns, testing combinations and evaluating pr
 Instead of seeking explanations, it explores possibilities.
 And within that space, it finds solutions.
 
-##Molecules as sentences##
+## Molecules as sentences
 Perhaps the best way to understand this phenomenon is through an analogy with language.
 Just as a well-formed sentence follows syntactic rules, a functional molecule follows structural rules of chemistry. In both cases, validity precedes full understanding.
 
@@ -39,7 +39,7 @@ Aspirin was used for decades before its mechanism of action was understood. Peni
 
 What changes now is scale and systematization. AI does not occasionally stumble upon solutions it does not understand—it turns this inversion into a method.
 
-##The paradox##
+## The paradox
 A profound shift emerges.
 
 For centuries, science operated under the assumption that understanding should precede intervention: first explain, then apply.
@@ -51,7 +51,7 @@ We have never understood so little about underlying mechanisms—and never produ
 AI does not know what a bacterium is, yet it can help kill one. It does not understand pulmonary fibrosis, yet it can generate a molecule that acts against it.
 This is not just a technical advance. It is a change in epistemological regime.
 
-##From understanding to performance##
+## From understanding to performance
 We are witnessing a transition from a science centered on explanation to one oriented toward performance.
 
 The goal is no longer necessarily to know what a disease is in its essence, but to discover what works against it.
@@ -62,7 +62,7 @@ An effective molecule does not need to be fully understood from the outset. It o
 
 Truth, here, becomes operative.
 
-##A science without a subject?##
+## A science without a subject?
 There is something unsettling in this inversion.
 
 Unlike historical discoveries made by chance, there is no illusion of subject here. We do not project intention or consciousness onto the machine.
