@@ -27,3 +27,4 @@ Essays on artificial intelligence, language, and interpretation.
 - [Joyce, MIT, and the New Algorithmic Sycophancy (English)](joyce-en)
 - [James Joyce, MIT e a nova bajulação algorítmica (Português)](joyce)
 - [Molecules as Sentences: Medicine in the Age of AI (English)](medicine-ai-en)
+- [Moléculas como frases: a medicina na era da IA (Português)](medicina-ia)
