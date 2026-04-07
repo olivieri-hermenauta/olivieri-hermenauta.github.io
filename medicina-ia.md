@@ -7,7 +7,7 @@ title: "Moléculas como frases: a medicina na era da IA"
 
 *From explanation to performance*
 
-<img src="/img/proteine-sentence.png" alt="Descrição da imagem" style="max-width:60%; margin: 2rem auto; display: block;">
+<img src="/img/protein-sentence.png" alt="Descrição da imagem" style="max-width:60%; margin: 2rem auto; display: block;">
 Em 2019, pesquisadores da empresa Insilico Medicine voltaram sua plataforma de inteligência artificial para uma doença sem cura conhecida: a fibrose pulmonar idiopática, que destrói progressivamente o tecido dos pulmões. Em menos de dezoito meses — um prazo extraordinariamente curto para um processo que costuma levar de quatro a seis anos —, a IA identificou um novo alvo molecular e gerou um candidato a medicamento, a um custo inferior a 2,6 milhões de dólares.
 
 O composto, batizado de rentosertib, avançou para ensaios clínicos de fase 2a. Os resultados preliminares, publicados na Nature Medicine em 2025, indicaram não apenas segurança e boa tolerabilidade, mas também uma melhora mensurável na função pulmonar — algo que os tratamentos existentes raramente conseguem oferecer.
