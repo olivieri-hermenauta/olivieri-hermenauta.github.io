@@ -5,7 +5,7 @@ title: "Moléculas como frases: a medicina na era da IA"
 
 # Moléculas como frases: a medicina na era da IA
 
-*From explanation to performance*
+*Em vez de explicação, resultados*
 
 <img src="/img/protein-sentence.png" alt="Descrição da imagem" style="max-width:60%; margin: 2rem auto; display: block;">
 Em 2019, pesquisadores da empresa Insilico Medicine voltaram sua plataforma de inteligência artificial para uma doença sem cura conhecida: a fibrose pulmonar idiopática, que destrói progressivamente o tecido dos pulmões. Em menos de dezoito meses — um prazo extraordinariamente curto para um processo que costuma levar de quatro a seis anos —, a IA identificou um novo alvo molecular e gerou um candidato a medicamento, a um custo inferior a 2,6 milhões de dólares.
