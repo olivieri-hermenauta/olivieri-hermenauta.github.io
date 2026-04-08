@@ -28,3 +28,4 @@ Essays on artificial intelligence, language, and interpretation.
 - [James Joyce, MIT e a nova bajulação algorítmica (Português)](joyce)
 - [Molecules as Sentences: Medicine in the Age of AI (English)](medicine-ai-en)
 - [Moléculas como frases: a medicina na era da IA (Português)](medicina-ia)
+- [AI Speaks — But Takes Responsibility for Nothing (English)](marketing-justiça)
