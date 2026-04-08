@@ -29,3 +29,4 @@ Essays on artificial intelligence, language, and interpretation.
 - [Molecules as Sentences: Medicine in the Age of AI (English)](medicine-ai-en)
 - [Moléculas como frases: a medicina na era da IA (Português)](medicina-ia)
 - [AI Speaks — But Takes Responsibility for Nothing (English)](marketing-justiça-en)
+- [A IA fala — mas não responde por nada (Português)](marketing-justiça)
