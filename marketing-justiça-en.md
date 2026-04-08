@@ -15,7 +15,7 @@ title: "AI Speaks — But Takes Responsibility for Nothing"
   </figcaption>
 
   <figcaption style="font-size: 0.8rem; color: #999;">
-    Imagem: ilustração autoral (Hermen@uta + GPT)
+    Imagem: ilustração autoral (Hermen@uta + NanoBanana)
   </figcaption>
 </figure>.
 
