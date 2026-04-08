@@ -8,7 +8,7 @@ title: "A IA fala — mas não responde por nada"
 *Ou: por que você não deveria confiar no que parece confiável.*
 
 <figure style="text-align: center;">
-  <img src="/img/marketing-justtiça.png" alt="Mix-de-telas" style="max-width:60%; margin: 2rem auto 0.5rem auto; display: block;">
+  <img src="/img/marketing-justiça.png" alt="Mix-de-telas" style="max-width:60%; margin: 2rem auto 0.5rem auto; display: block;">
 
   <figcaption style="font-size: 0.95rem; font-weight: bold; font-style: italic; margin-bottom: 0.5rem;">
     Parece conhecimento. Funciona como conhecimento. Não é conhecimento.
