@@ -31,3 +31,4 @@ Essays on artificial intelligence, language, and interpretation.
 - [AI Speaks — But Takes Responsibility for Nothing (English)](marketing-justiça-en)
 - [A IA fala — mas não responde por nada (Português)](marketing-justiça)
 - [From the Desert to the Data Center (English)](vathek-en)
+- [De que adianta saber quem é Satoshi Nakamoto? (Português)](satoshi)
