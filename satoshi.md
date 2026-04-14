@@ -39,7 +39,7 @@ Quem é responsável por isso?
 A pergunta não é apenas informativa — é estrutural. Ela organiza a nossa relação com o sentido. Saber quem é o autor parece nos dar uma chave de leitura, uma âncora interpretativa.
 Mas o Bitcoin resiste a esse gesto.
 
-A linguagem como pista — e como armadilha
+##A linguagem como pista — e como armadilha
 A investigação do New York Times se apoia, em parte, na análise de linguagem: padrões de escrita, escolhas lexicais, ortografia. É um movimento típico da nossa época, em que a linguagem se torna um rastro técnico, quase forense.
 
 Mas aqui há uma ironia que interessa diretamente ao Hermen@uta.
@@ -51,7 +51,8 @@ A linguagem parece sempre apontar para alguém.
 Mesmo quando não há ninguém ali.
 
 Ou, mais precisamente: quando há apenas linguagem.
-O autor que desaparece
+
+##O autor que desaparece
 O que o Bitcoin introduz não é apenas uma inovação tecnológica. É uma ruptura na própria ideia de autoria.
 
 O sistema funciona sem centro. Sem liderança. Sem rosto. Sem biografia.
@@ -61,7 +62,8 @@ Satoshi Nakamoto não desapareceu por acaso. Seu desaparecimento é parte da arq
 Nesse sentido, o Bitcoin radicaliza uma intuição já conhecida na teoria literária: a de que o autor não é a origem soberana do sentido, mas um ponto de passagem.
 
 Aqui, esse ponto de passagem evapora.
-O que realmente importa
+
+##O que realmente importa
 Suponhamos, por um momento, que o The New York Times esteja certo.Que Adam Back seja, de fato, Satoshi.
 
 O que mudaria? O código do Bitcoin continuaria o mesmo. A rede continuaria operando. Os blocos continuariam sendo minerados. O sistema continuaria a funcionar exatamente como antes.
@@ -73,7 +75,8 @@ Talvez estejamos fazendo a pergunta errada.
 Não se trata de descobrir quem criou o Bitcoin, mas de entender por que ele foi criado de modo a não precisar de um criador.
 
 O anonimato não é um detalhe. É uma condição de possibilidade.
-O verdadeiro ponto
+
+##O verdadeiro ponto
 O The New York Times pode ter identificado um homem.
 
 Mas o Bitcoin foi construído para não precisar de nenhum.
