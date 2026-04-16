@@ -32,3 +32,4 @@ Essays on artificial intelligence, language, and interpretation.
 - [A IA fala — mas não responde por nada (Português)](marketing-justiça)
 - [From the Desert to the Data Center (English)](vathek-en)
 - [De que adianta saber quem é Satoshi Nakamoto? (Português)](satoshi)
+- [Quem controla as palavras? (Português)](emusk)
