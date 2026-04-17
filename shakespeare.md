@@ -3,7 +3,7 @@ layout: default
 title: "Quem controla as palavras? (2)"
 ---
 
-# Quem controla as palavras?
+# Quem controla as palavras? (2)
 *Shakespeare, a rosa e a nova guerra das palavras.*
 
 <figure style="text-align: center;">
