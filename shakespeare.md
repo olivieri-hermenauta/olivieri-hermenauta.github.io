@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Quem controla as palavras?"
+title: "Quem controla as palavras? (2)"
 ---
 
 # Quem controla as palavras?
