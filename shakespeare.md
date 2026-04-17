@@ -1,11 +1,10 @@
 ---
 layout: default
-title: "Shakespeare, a rosa e a nova guerra das palavras"
+title: "Quem controla as palavras?"
 ---
 
-# Shakespeare, a rosa e a nova guerra das palavras
-
-*Em diferentes esferas da vida pública, cresce a convicção de que mudar o vocabulário é uma forma de intervir na própria realidade. *
+# Quem controla as palavras?
+*Shakespeare, a rosa e a nova guerra das palavras.*
 
 <figure style="text-align: center;">
   <img src="/img/shakespeare.png" alt="Mix-de-telas" style="max-width:60%; margin: 2rem auto 0.5rem auto; display: block;">
