@@ -34,3 +34,4 @@ Essays on artificial intelligence, language, and interpretation.
 - [De que adianta saber quem é Satoshi Nakamoto? (Português)](satoshi)
 - [Quem controla as palavras? (Português)](emusk)
 - [Quem controla as palavras? (2 - Português)](shakespeare)
+- -[What's in a name? (English)](shakespeare-en)
