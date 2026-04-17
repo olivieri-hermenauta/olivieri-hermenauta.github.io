@@ -33,3 +33,4 @@ Essays on artificial intelligence, language, and interpretation.
 - [From the Desert to the Data Center (English)](vathek-en)
 - [De que adianta saber quem é Satoshi Nakamoto? (Português)](satoshi)
 - [Quem controla as palavras? (Português)](emusk)
+- [Quem controla as palavras? (2 - Português)](shakespeare)
