@@ -36,3 +36,4 @@ Essays on artificial intelligence, language, and interpretation.
 - [Quem controla as palavras? (2 - Português)](shakespeare)
 - [What's in a name? (English)](shakespeare-en)
 - [Os “nativos da IA” e o novo tipo de dependência (Português)](nativos)
+- [Quando a prova basta, mas o entendimento falta (Português)](matemática)
