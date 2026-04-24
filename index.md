@@ -37,3 +37,4 @@ Essays on artificial intelligence, language, and interpretation.
 - [What's in a name? (English)](shakespeare-en)
 - [Os “nativos da IA” e o novo tipo de dependência (Português)](nativos)
 - [Quando a prova basta, mas o entendimento falta (Português)](matemática)
+- [Bartleby and the language without commitment (English)](bartleby-en)
