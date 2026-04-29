@@ -39,3 +39,4 @@ Essays on artificial intelligence, language, and interpretation.
 - [Quando a prova basta, mas o entendimento falta (Português)](matemática)
 - [Bartleby and the language without commitment (English)](bartleby-en)
 - [Quando a IA produz o inaceitável](sexo)
+- [O ponto cego: quem define o inimigo?](palantir)
