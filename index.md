@@ -40,3 +40,4 @@ Essays on artificial intelligence, language, and interpretation.
 - [Bartleby and the language without commitment (English)](bartleby-en)
 - [Quando a IA produz o inaceitável](sexo)
 - [O ponto cego: quem define o inimigo?](palantir)
+- [Waterloo (English)](waterloo)
