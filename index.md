@@ -42,3 +42,4 @@ Essays on artificial intelligence, language, and interpretation.
 - [O ponto cego: quem define o inimigo?](palantir)
 - [Waterloo (English)](waterloo)
 - [Waterloo (Português)](sthendal)
+- [Quem governa a inteligência artificial?](governo)
