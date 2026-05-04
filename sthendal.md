@@ -3,9 +3,21 @@ layout: default
 title: "Waterloo"
 ---
 
-# Waterloo
+#  Waterloo
 
 *O que não se vê quando a história acontece*
+
+<figure style="text-align: center;">
+  <img src="/img/waterloo.png" alt="Mix-de-telas" style="max-width:60%; margin: 2rem auto 0.5rem auto; display: block;">
+
+  <figcaption style="font-size: 0.95rem; font-weight: bold; font-style: italic; margin-bottom: 0.5rem;">
+    Scotland for Ever! - Elizabeth Southerden Thompson (Lady Butler), 1881.
+  </figcaption>
+
+  <figcaption style="font-size: 0.8rem; color: #999;">
+    Imagem: ilustração autoral (Hermen@uta + GPT)
+  </figcaption>
+</figure>
 
 Ele cavalga sem saber exatamente para onde.
 
