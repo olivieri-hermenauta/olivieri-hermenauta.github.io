@@ -18,7 +18,7 @@ title: "O julgamento de Dmitri Karamázov, hoje"
     Imagem: ilustração autoral (Hermen@uta + Nanobanana)
   </figcaption>
 </figure>
-Segurança, linguagem e o impasse de decidir
+
 Há julgamentos em que o problema não é a falta de provas, mas o seu excesso. Cada detalhe parece encontrar lugar, cada testemunho se encaixa — e, ainda assim, o conjunto não converge. A verdade não desaparece; ela se multiplica.
 
 É isso que inquieta no julgamento de Dmitri em “Os Irmãos Karamázov”. Não se trata de ignorância ou erro evidente. Ao contrário: os fatos estão ali, reiterados, examinados, reorganizados. O que varia é o modo de narrá-los. Cada discurso recompõe a realidade segundo sua própria lógica, e o resultado é uma proliferação de versões coerentes e incompatíveis.
