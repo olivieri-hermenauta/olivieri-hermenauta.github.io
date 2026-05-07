@@ -44,3 +44,4 @@ Essays on artificial intelligence, language, and interpretation.
 - [Waterloo (Português)](sthendal)
 - [Quem governa a inteligência artificial?](governo)
 - [Segurança: o idioma da disputa](controle)
+- [O julgamento de Dmitri Karamázov, hoje](dostoievski)
