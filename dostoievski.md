@@ -11,7 +11,7 @@ title: "O julgamento de Dmitri Karamázov, hoje"
   <img src="/img/dostoievski.png" alt="Mix-de-telas" style="max-width:60%; margin: 2rem auto 0.5rem auto; display: block;">
 
   <figcaption style="font-size: 0.95rem; font-weight: bold; font-style: italic; margin-bottom: 0.5rem;">
-    Não é apenas que as posições divergem. É que as próprias palavras já não coincidem consigo mesmas. 
+    Dostoievski e a obra-prima que o levou a ocupar um lugar único na literatura universal 
   </figcaption>
 
   <figcaption style="font-size: 0.8rem; color: #999;">
