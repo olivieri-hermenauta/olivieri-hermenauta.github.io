@@ -45,3 +45,4 @@ Essays on artificial intelligence, language, and interpretation.
 - [Quem governa a inteligência artificial?](governo)
 - [Segurança: o idioma da disputa](controle)
 - [O julgamento de Dmitri Karamázov, hoje](dostoievski)
+- [The Trial of Dmitri Karamazov, Today](dostoievski-en)
