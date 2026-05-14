@@ -47,3 +47,4 @@ Essays on artificial intelligence, language, and interpretation.
 - [O julgamento de Dmitri Karamázov, hoje](dostoievski)
 - [The Trial of Dmitri Karamazov, Today](dostoievski-en)
 - [Dawkins e a ilusão da terceira pessoa](dawkins)
+- [O enigma da consciência](enigma)
