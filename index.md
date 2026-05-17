@@ -49,3 +49,4 @@ Essays on artificial intelligence, language, and interpretation.
 - [Dawkins e a ilusão da terceira pessoa](dawkins)
 - [O enigma da consciência](enigma)
 - [Quando a razão produz monstros](raskolnikov)
+- [When Ideas Turn Violent](raskolnikov-en)
