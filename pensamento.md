@@ -8,7 +8,7 @@ title: "A inteligência artificial não pensa — e isso muda tudo"
 *O que parece inteligência pode ser apenas linguagem — e isso nos obriga a rever o que chamamos de pensar*
 
 <figure style="text-align: center;">
-  <img src="/img/marketing-justtiça.png" alt="Mix-de-telas" style="max-width:60%; margin: 2rem auto 0.5rem auto; display: block;">
+  <img src="/img/pensamento.png" alt="Mix-de-telas" style="max-width:60%; margin: 2rem auto 0.5rem auto; display: block;">
 
   <figcaption style="font-size: 0.95rem; font-weight: bold; font-style: italic; margin-bottom: 0.5rem;">
     O desejo de humanizar a máquina talvez seja um parâmetro do ser humano
