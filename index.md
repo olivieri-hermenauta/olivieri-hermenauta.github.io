@@ -50,3 +50,4 @@ Essays on artificial intelligence, language, and interpretation.
 - [O enigma da consciência](enigma)
 - [Quando a razão produz monstros](raskolnikov)
 - [When Ideas Turn Violent](raskolnikov-en)
+- [A inteligência artificial não pensa — e isso muda tudo](pensamento)
