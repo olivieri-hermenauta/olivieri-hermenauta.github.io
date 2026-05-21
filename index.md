@@ -51,3 +51,4 @@ Essays on artificial intelligence, language, and interpretation.
 - [Quando a razão produz monstros](raskolnikov)
 - [When Ideas Turn Violent](raskolnikov-en)
 - [A inteligência artificial não pensa — e isso muda tudo](pensamento)
+- [As palavras em ruínas](littera)
