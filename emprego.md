@@ -11,7 +11,7 @@ title: "Por que a IA talvez não roube nossos empregos"
   <img src="/img/emprego.png" alt="Mix-de-telas" style="max-width:60%; margin: 2rem auto 0.5rem auto; display: block;">
 
   <figcaption style="font-size: 0.95rem; font-weight: bold; font-style: italic; margin-bottom: 0.5rem;">
-    As previsões apocalípticas acompanham as novas tecnologias desde sempre
+    Previsões apocalípticas sempre acompanham novas tecnologias
   </figcaption>
 
   <figcaption style="font-size: 0.8rem; color: #999;">
