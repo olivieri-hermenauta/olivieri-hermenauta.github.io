@@ -55,3 +55,4 @@ Essays on artificial intelligence, language, and interpretation.
 - [Trafalgar Square está a um passo da Praça da República](londres-iphone)
 - [O evangelho segundo Leão Tolstoi](tolstoi-jesus)
 - [Por que a IA talvez não roube nossos empregos](emprego)
+- [O algoritmo de Mefistófoles](fausto)
