@@ -8,7 +8,7 @@ title: "O algoritmo de Mefistófeles"
 *A corrida pela inteligência artificial opera segundo a mesma lógica*
 
 <figure style="text-align: center;">
-  <img src="/img/marketing-justtiça.png" alt="Mix-de-telas" style="max-width:60%; margin: 2rem auto 0.5rem auto; display: block;">
+  <img src="/img/fausto.png" alt="Mix-de-telas" style="max-width:60%; margin: 2rem auto 0.5rem auto; display: block;">
 </figure>
 
 Na segunda parte do Fausto, algo muda — e quase passa despercebido.
