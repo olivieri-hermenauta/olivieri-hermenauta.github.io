@@ -6,7 +6,7 @@ title: "O terror em forma de evidência"
 # O terror em forma de evidência
 
 <figure style="text-align: center;">
-  <img src="/img/marketing-justtiça.png" alt="Mix-de-telas" style="max-width:60%; margin: 2rem auto 0.5rem auto; display: block;">
+  <img src="/img/não-mexa.png" alt="Mix-de-telas" style="max-width:60%; margin: 2rem auto 0.5rem auto; display: block;"></figure>
 
 Esta foto contém uma referência que só os leitores de Não mexa provavelmente notarão. É uma pequena homenagem à melhor ideia de Mikito Chinen: transformar o próprio leitor em... personagem. E mudo de assunto para evitar spoilers. Poucas vezes um artifício gráfico funciona tão bem quanto em Não mexa neste celular e Não mexa neste arquivo, do escritor e médico japonês Mikito Chinen.
 
