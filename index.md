@@ -56,3 +56,4 @@ Essays on artificial intelligence, language, and interpretation.
 - [O evangelho segundo Leão Tolstoi](tolstoi-jesus)
 - [Por que a IA talvez não roube nossos empregos](emprego)
 - [O algoritmo de Mefistófoles](fausto)
+- [O terror em forma de evidência](não-mexa03)
