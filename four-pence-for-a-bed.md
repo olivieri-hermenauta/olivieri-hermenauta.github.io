@@ -174,3 +174,7 @@ Uma lâmina reluziu sob a luz do lampião.
 Anne ergueu os olhos para o rosto dele. Havia neles um brilho de loucura.
 
 Ela avançou em sua direção.
+
+---
+
+**Read the English version:** [Four Pence for a Bed — Chuckstack](https://chucklund.substack.com/p/four-pence-for-a-bed)
