@@ -57,3 +57,4 @@ Essays on artificial intelligence, language, and interpretation.
 - [Por que a IA talvez não roube nossos empregos](emprego)
 - [O algoritmo de Mefistófoles](fausto)
 - [O terror em forma de evidência](não-mexa03)
+- [Four Pence for a Bed](four-pence-for-a-bed)
