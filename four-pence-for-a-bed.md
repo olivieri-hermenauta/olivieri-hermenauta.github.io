@@ -5,7 +5,7 @@ title: "Four Pence for a Bed"
 
 # Four Pence for a Bed
 <figure style="text-align: center;">
-  <img src="/img/dark-annie.png" alt="Mix-de-telas" style="max-width:60%; margin: 2rem auto 0.5rem auto; display: block;">
+  <img src="/img/dark-annie.png" alt="Mix-de-telas" style="max-width:60%; margin: 2rem auto 0.5rem auto; display: block;"></figure>
 
 Restava pouco gim no copo.
 Anne Chapman inclinou-o e observou as últimas gotas escorrerem pelo vidro. Estava sentada no pub havia quase uma hora, embora já não se lembrasse de quando entrara.
