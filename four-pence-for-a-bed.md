@@ -179,4 +179,6 @@ Ela avançou em sua direção.
 
 ---
 
-**Read the English version:** [Four Pence for a Bed — Chuckstack](https://substack.com/@chucklund1/p/four-pence-for-a-bed)
+---
+
+**Read the English version:** [Four Pence for a Bed — Chuck Lund](https://charlesslund.substack.com/p/four-pence-for-a-bed)
