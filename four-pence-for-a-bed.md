@@ -7,6 +7,12 @@ title: "Four Pence for a Bed"
 <figure style="text-align: center;">
   <img src="/img/dark-annie.png" alt="Mix-de-telas" style="max-width:60%; margin: 2rem auto 0.5rem auto; display: block;"></figure>
 
+**Read the English version:** [Four Pence for a Bed — Chuck Lund](https://charlesslund.substack.com/p/four-pence-for-a-bed)
+---
+
+---
+
+---
 Restava pouco gim no copo.
 
 Anne Chapman inclinou-o e observou as últimas gotas escorrerem pelo vidro. Estava sentada no pub havia quase uma hora, embora já não se lembrasse de quando entrara.
@@ -175,10 +181,4 @@ Anne ergueu os olhos para o rosto dele. Havia neles um brilho de loucura.
 
 Ela avançou em sua direção.
 
----
 
----
-
----
-
-**Read the English version:** [Four Pence for a Bed — Chuck Lund](https://charlesslund.substack.com/p/four-pence-for-a-bed)
